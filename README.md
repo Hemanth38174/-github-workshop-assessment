@@ -1,7 +1,11 @@
-# -github-workshop-assessment
+## Project Description
+This repository is created for GitHub workshop practice.
 
+## How to Run
+1. Clone the repository
+2. Open the project files
+3. Read the README file
 
-Name: Kolluru Hemanth
-College: kalasalingam academy of research and education
-Workshop Date: 10-02-2026
-
+## Folder Structure
+- README.md
+- intro.txt
